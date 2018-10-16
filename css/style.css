@@ -155,10 +155,10 @@ header p {
 }
 .intro-text {
 	position: relative;
-	padding-top: 150px;
+	padding-top: 250px;
 	padding-right: 0;
 	padding-left: 0;
-	padding-bottom: 70px;
+	padding-bottom: 170px;
 }
 .intro-text H1 {
 	font-size: 70px;
@@ -538,10 +538,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1a618', end
 	margin-bottom: 10px;
 }
 label {
-	font-size: 14px;
+	font-size: 12px;
 	font-weight: 400;
 	font-family: 'Open Sans', sans-serif;
-	float: center;
+	float: left;
 }
 #contact-section .form-control {
 	display: block;
